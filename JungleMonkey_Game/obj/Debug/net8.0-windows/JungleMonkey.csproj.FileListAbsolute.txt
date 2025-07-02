@@ -1,0 +1,17 @@
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\obj\Debug\net8.0-windows\JungleMonkey.GeneratedMSBuildEditorConfig.editorconfig
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\obj\Debug\net8.0-windows\JungleMonkey.AssemblyInfoInputs.cache
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\obj\Debug\net8.0-windows\JungleMonkey.AssemblyInfo.cs
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\obj\Debug\net8.0-windows\JungleMonkey.csproj.CoreCompileInputs.cache
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\obj\Debug\net8.0-windows\JungleMonkey.sourcelink.json
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\bin\Debug\net8.0-windows\JungleMonkey.exe
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\bin\Debug\net8.0-windows\JungleMonkey.deps.json
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\bin\Debug\net8.0-windows\JungleMonkey.runtimeconfig.json
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\bin\Debug\net8.0-windows\JungleMonkey.dll
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\bin\Debug\net8.0-windows\JungleMonkey.pdb
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\obj\Debug\net8.0-windows\JungleMonkey.csproj.ResolveComReference.cache
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\obj\Debug\net8.0-windows\JungleMonkey.dll
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\obj\Debug\net8.0-windows\refint\JungleMonkey.dll
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\obj\Debug\net8.0-windows\JungleMonkey.pdb
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\obj\Debug\net8.0-windows\JungleMonkey.genruntimeconfig.cache
+C:\FP_PBO_FIX_BANGET\JungleMonkey_Game\obj\Debug\net8.0-windows\ref\JungleMonkey.dll
